@@ -1,27 +1,51 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMelody&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=TheMelody&show_owner=TheMelody&repo=ComposeCameraxOpenGL&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=30,e96443,904e95)
+**关于我**
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=TheMelody&show_owner=TheMelody&repo=ComposeIOSSwitchButton&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=30,e96443,904e95)
+- ✅ [稀土掘金主页](https://juejin.cn/user/8451824316670/posts)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=TheMelody&show_owner=TheMelody&repo=LotteryTrend&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=30,e96443,904e95)
+- ✅ [知乎主页](https://www.zhihu.com/people/qiang-fu-5-67/posts)
+
+- ✅ [小专栏](https://xiaozhuanlan.com/u/halifax)
+
+- 💬 [点击这里](https://github.com/TheMelody/TheMelody/issues)可以咨询工作和学习上面的问题
+
+- 📫 联系邮箱：developer_melody@163.com
+
+<code><img height="20" alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" alt="flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" alt="dart" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code>
+<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>    
+<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> 
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+<code><img height="20" alt="androidStudio" src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png"></code> 
+<code><img height="20" alt="intellij-idea" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png"></code> 
 
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=TheMelody&show_owner=TheMelody&repo=FlutterRatingbar&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=30,e96443,904e95)
+| <a href="https://github.com/TheMelody/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMelody&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TheMelody/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMelody&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
  
-<!--
-**TheMelody/TheMelody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Top Repositories
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/TheMelody/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMelody&repo=LotteryTrend&theme=buefy" />
+</a>
+<a href="https://github.com/TheMelody/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMelody&repo=ComposeCameraxOpenGL&theme=buefy" />
+</a>
+
+<br />
+
+<a href="https://github.com/TheMelody/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMelody&repo=FlutterRatingbar&theme=buefy" />
+</a>
+<a href="https://github.com/TheMelody/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMelody&repo=ComposeIOSSwitchButton&theme=buefy" />
+</a>
+
+<br />
+
