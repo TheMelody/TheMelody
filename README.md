@@ -21,7 +21,7 @@
 <code><img height="20" alt="intellij-idea" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png"></code> 
 
 
-| <a href="https://github.com/TheMelody"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMelody&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TheMelody"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMelody&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMelody&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMelody&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 
