@@ -1,3 +1,10 @@
+<p align="center">
+		<img alt="TheMelody Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+TheMelody">
+  <br />
+  <img src="https://hits.dwyl.com/TheMelody/TheMelody.svg?style=flat-square&show=unique" alt="TheMelody profile views" />
+</p>
+
 **关于我**
 
 - ✅ [稀土掘金主页](https://juejin.cn/user/8451824316670/posts)
