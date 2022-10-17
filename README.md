@@ -9,7 +9,7 @@
 
 - ✅ [稀土掘金主页](https://juejin.cn/user/8451824316670/posts)
 
-- ✅ [知乎主页](https://www.zhihu.com/people/qiang-fu-5-67/posts)
+- ✅ [知乎主页](https://www.zhihu.com/people/fq_halifax/posts)
 
 - ✅ [小专栏](https://xiaozhuanlan.com/u/halifax)
 
