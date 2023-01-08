@@ -15,6 +15,8 @@
 
 - ✅ [小专栏](https://xiaozhuanlan.com/u/halifax)
 
+- ✅ [stackoverflow](https://stackoverflow.com/users/4057833/halifax)
+
 - 💬 [点击这里](https://github.com/TheMelody/TheMelody/issues)可以咨询工作和学习上面的问题
 
 - 📫 联系邮箱：developer_melody@163.com
