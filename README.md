@@ -1,6 +1,6 @@
 <p align="center">
 		<img alt="TheMelody Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+TheMelody">
+			 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+TheMelody">
   <br />
   <img src="https://hits.dwyl.com/TheMelody/TheMelody.svg?style=flat-square&show=unique" alt="TheMelody profile views" />
 </p>
