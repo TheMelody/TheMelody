@@ -1,6 +1,6 @@
 <p align="center">
 		<img alt="TheMelody Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+TheMelody">
+			 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+TheMelody">
   <br />
   <img src="https://hits.dwyl.com/TheMelody/TheMelody.svg?style=flat-square&show=unique" alt="TheMelody profile views" />
 </p>
@@ -34,27 +34,3 @@
 
 | <a href="https://github.com/TheMelody"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMelody&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TheMelody"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMelody&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
- 
-#### Top Repositories
-
-
-<a href="https://github.com/TheMelody/ComposeCameraxOpenGL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMelody&repo=ComposeCameraxOpenGL&theme=buefy" />
-</a>
-<a href="https://github.com/TheMelody/LotteryTrend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMelody&repo=LotteryTrend&theme=buefy" />
-</a>
-
-<br />
-
-<a href="https://github.com/TheMelody/ComposeIOSSwitchButton">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMelody&repo=ComposeIOSSwitchButton&theme=buefy" />
-</a>
-<a href="https://github.com/TheMelody/FlutterRatingbar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMelody&repo=FlutterRatingbar&theme=buefy" />
-</a>
-
-<br />
-
