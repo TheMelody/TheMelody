@@ -1,9 +1,13 @@
 <p align="center">
 		<img alt="TheMelody Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+TheMelody">
+			 src="https://raw.githubusercontent.com/TheMelody/TheMelody/output/Bottom_up.svg">
   <br />
   <img src="https://hits.dwyl.com/TheMelody/TheMelody.svg?style=flat-square&show=unique" alt="TheMelody profile views" />
 </p>
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![TheMelody github activity graph](https://raw.githubusercontent.com/TheMelody/TheMelody/output/github-contribution-grid-snake.svg)
 
 **关于我**
 
@@ -32,5 +36,5 @@
 <code><img height="20" alt="intellij-idea" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png"></code> 
 
 
-| <a href="https://github.com/TheMelody"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMelody&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TheMelody"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMelody&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+
