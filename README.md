@@ -2,12 +2,8 @@
 		<img alt="TheMelody Welcome Message"
 			 src="https://raw.githubusercontent.com/TheMelody/TheMelody/output/Bottom_up.svg">
   <br />
-  <img src="https://hits.dwyl.com/TheMelody/TheMelody.svg?style=flat-square&show=unique" alt="TheMelody profile views" />
+   <img src="https://count.getloli.com/get/@TheMelody.github.readme?theme=rule34" alt="TheMelody profile views" />
 </p>
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![TheMelody github activity graph](https://raw.githubusercontent.com/TheMelody/TheMelody/output/github-contribution-grid-snake.svg)
 
 **关于我**
 
@@ -35,6 +31,5 @@
 <code><img height="20" alt="androidStudio" src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png"></code> 
 <code><img height="20" alt="intellij-idea" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png"></code> 
 
-
-
-
+### 📈 GitHub Activity Graph:
+![TheMelody github activity graph](https://raw.githubusercontent.com/TheMelody/TheMelody/output/github-contribution-grid-snake.svg)
