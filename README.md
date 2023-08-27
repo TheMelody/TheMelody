@@ -2,7 +2,7 @@
 		<img alt="TheMelody Welcome Message"
 			 src="https://raw.githubusercontent.com/TheMelody/TheMelody/output/Bottom_up.svg">
   <br />
-   <img src="https://count.getloli.com/get/@TheMelody.github.readme?theme=rule34" alt="TheMelody profile views" />
+   <img src="https://moe-counter.glitch.me/get/@TheMelody.github.readme?theme=rule34" alt="TheMelody profile views" />
 </p>
 
 **关于我**
