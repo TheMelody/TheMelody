@@ -7,7 +7,7 @@
 
 **关于我**
 
-- ✅ [鸿蒙OpenHarmony开发板实战](https://blog.csdn.net/logicsboy/category_12146378.html)
+- ✅ [鸿蒙OpenHarmony开发板实战](http://t.csdnimg.cn/l8JXe)
 
 - ✅ [知乎主页](https://www.zhihu.com/people/fq_halifax/posts)
 
