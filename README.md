@@ -7,19 +7,19 @@
 
 **关于我**
 
-- ✅ [入门实战OpenHarmony物联网-CSDN --- 鸿蒙](https://blog.csdn.net/logicsboy/category_12146378.html)
-  
-- ✅ [入门实战OpenHarmony物联网-小专栏 --- 鸿蒙](https://xiaozhuanlan.com/openHarmony?rel=halifax) 
+- ✅ [小专栏](https://xiaozhuanlan.com/u/halifax)
 
 - ✅ [知乎主页](https://www.zhihu.com/people/fq_halifax/posts)
 
-- ✅ [稀土掘金主页](https://juejin.cn/user/8451824316670/posts)
-
 - ✅ [CSDN主页](https://blog.csdn.net/logicsboy?type=blog)
 
-- ✅ [小专栏](https://xiaozhuanlan.com/u/halifax)
+- ✅ [稀土掘金主页](https://juejin.cn/user/8451824316670/posts)
 
 - ✅ [stackoverflow](https://stackoverflow.com/users/4057833/halifax)
+
+- ✅ [入门实战OpenHarmony物联网-CSDN --- 鸿蒙](https://blog.csdn.net/logicsboy/category_12146378.html)
+  
+- ✅ [入门实战OpenHarmony物联网-小专栏 --- 鸿蒙](https://xiaozhuanlan.com/openHarmony?rel=halifax) 
 
 - 💬 [点击这里](https://github.com/TheMelody/TheMelody/issues)可以咨询工作和学习上面的问题
 
