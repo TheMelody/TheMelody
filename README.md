@@ -7,7 +7,9 @@
 
 **关于我**
 
-- ✅ [鸿蒙OpenHarmony开发板入门实战](https://blog.csdn.net/logicsboy/category_12146378.html)
+- ✅ [入门实战OpenHarmony物联网-CSDN --- 鸿蒙](https://blog.csdn.net/logicsboy/category_12146378.html)
+  
+- ✅ [入门实战OpenHarmony物联网-小专栏 --- 鸿蒙](https://xiaozhuanlan.com/openHarmony?rel=halifax) 
 
 - ✅ [知乎主页](https://www.zhihu.com/people/fq_halifax/posts)
 
